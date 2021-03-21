@@ -7,7 +7,7 @@
  - SpawnerEntity Class to spawn multiple enemies in-game.
  - Utils Class for FPS Calculation.
 
-#Installation/Usage
+# Installation/Usage
 These Instructions are for CommandLine/MinGW
  - Copy the files to your SFML Game Directory
  - Write your game code in Game.cpp
@@ -21,7 +21,7 @@ These Instructions are for CommandLine/MinGW
   ./app.exe
 ```
 
-#TODO
+# TODO
   - Add Texture Support to Entity
   - AABB Collision for Entity
-  - Making Entity Purely Virtual ¯\_( ͡❛ ͜ʖ ͡❛)_/¯
+  - Making Entity Purely Virtual ( ͡❛ ͜ʖ ͡❛)
