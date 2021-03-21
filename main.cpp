@@ -2,7 +2,7 @@
 
 int main()
 {
-    Game game("Game Window v0.1",1280,720);
+    Game game("<INSERT TITLE HERE>",1280,720);
     game.Run();
 
     return 0;
