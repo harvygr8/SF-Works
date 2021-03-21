@@ -1,2 +1,0 @@
-Make Entity Purely virtual
-Make SpawnerEntity Spawn maybe BaseEnemyEntity instead of Entity and have BaseEnemyEntity derive from purely virtual Entity
