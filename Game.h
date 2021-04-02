@@ -3,9 +3,9 @@
 #include<vector>
 #include<SFML/Window.hpp>
 #include<SFML/Graphics.hpp>
-#include "SpawnerEntity.h"
+#include "Entities/SpawnerEntity.h"
 #include "Utils.h"
-#include "PlayerEntity.h"
+#include "Entities/PlayerEntity.h"
 
 class Game
 {

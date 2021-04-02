@@ -1,6 +1,7 @@
 build:
 	g++ -Wfatal-errors \
 	./*.cpp	\
+	Entities/*.cpp \
 	-I"C:\SFML\include" \
 	-L"C:\SFML\lib"	\
 	-lmingw32	\
